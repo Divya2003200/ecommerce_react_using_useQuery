@@ -1,0 +1,30 @@
+/* src/components/ProductDetails.css */
+.product-details {
+    padding: 20px;
+}
+
+.product-details h1 {
+    margin-bottom: 10px;
+}
+
+.product-details p {
+    margin: 10px 0;
+}
+
+.product-price {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.add-to-cart-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-to-cart-button:hover {
+    background-color: #218838;
+}
